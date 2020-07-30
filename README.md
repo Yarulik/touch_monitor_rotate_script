@@ -1,0 +1,1 @@
+# touch_monitor_rotate_script
